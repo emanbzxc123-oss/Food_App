@@ -1,0 +1,1 @@
+// registration functionality updated
