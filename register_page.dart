@@ -1,1 +1,1 @@
-// registration functionality updated
+// registration feature commit step 2
