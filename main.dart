@@ -1,1 +1,1 @@
-// initial project structure update
+// initial app setup updated
