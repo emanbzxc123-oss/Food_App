@@ -103,4 +103,8 @@ flutter run
 
 ## License
 
+Initial project setup for Flutter food ordering app
+
 - For educational purposes only
+
+Initial project setup for Flutter food ordering app
